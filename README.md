@@ -50,8 +50,8 @@ I’m passionate about building clean, efficient, and user-focused web applicati
 
 ## 🌐 Connect With Me
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🔗 Portfolio: [your-portfolio-link](https://bharani4306.github.io/portfolio)
+- 📧 Email: [your-email@example.com](mailto: sbharanidharan4306@gmail.com.com)
+- 🔗 Portfolio: [https://bharani4306.github.io/portfolio/index.html](https://bharani4306.github.io/portfolio)
 - 🐙 GitHub: [@bharani4306](https://github.com/bharani4306)
 
 ---
