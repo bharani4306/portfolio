@@ -50,7 +50,7 @@ I’m passionate about building clean, efficient, and user-focused web applicati
 
 ## 🌐 Connect With Me
 
-- 📧 Email: [sbharanidharan4306@gmail.com](mailto: sbharanidharan4306@gmail.com)
+- 📧 Email: [sbharanidharan4306@gmail.com]
 - 🔗 Portfolio: [link](https://bharani4306.github.io/portfolio)
 - 🐙 GitHub: [@bharani4306](https://github.com/bharani4306)
 
